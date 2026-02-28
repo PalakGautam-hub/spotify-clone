@@ -39,7 +39,9 @@ spotify-clone/
 
 ## 📸 Preview
 
-(Add your project screenshot here)
+<p align="center">
+  <img src="./screenshot.png" width="800">
+</p>
 
 ---
 
@@ -65,4 +67,4 @@ spotify-clone/
 ## 👨‍💻 Author
 
 Your Name  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/PalakGautam-hub
