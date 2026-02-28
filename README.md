@@ -1,10 +1,10 @@
-🎵 #Spotify Clone
+🎵 # Spotify Clone
 
 A responsive front-end clone of the Spotify Web Player built using HTML5 and CSS3.
 
 This project recreates Spotify’s core UI layout, including sidebar navigation, content sections, and a fully designed music player with playback and volume controls.
 
-🚀 #Tech Stack
+🚀 # Tech Stack
 
 HTML5
 
@@ -14,7 +14,7 @@ Flexbox
 
 Font Awesome
 
-✨ #Key Features
+✨ # Key Features
 
 Structured layout using Flexbox
 
@@ -32,6 +32,6 @@ Responsive UI design
 
 
 ![Spotify Clone UI](./screenshot.png)
-📌 #Author
+📌 # Author
 
 Palak Gautam
